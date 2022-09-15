@@ -1,0 +1,33 @@
+{
+    "id": "4f773cbf-2d37-472b-a0d2-07828c987984",
+    "name": "NISSAN Report1.3",
+    "publisher": "WIT publisher",
+    "version": "1.0.0.0",
+    "brief": "",
+    "description": "",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [{
+            "id": "c1335042-3002-4257-bf8a-75c898ccb1b8",
+            "name": "Application",
+            "publisher": "Microsoft",
+            "version": "20.1.39764.40432"
+        },
+        {
+            "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+            "name": "Base Application",
+            "publisher": "Microsoft",
+            "version": "20.1.39764.42040"
+        }
+    ],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "idRanges": [{
+        "from": 50000,
+        "to": 99999
+    }],
+    "runtime": "8.0"
+}
